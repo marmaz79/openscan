@@ -1,0 +1,8 @@
+{
+  "name": "OpenScan - Document Scanner & OCR",
+  "description": "Free, offline document scanner with edge detection, camera & gallery import, filters, on-device OCR, collage layout, and multi-page A4 PDF export.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
